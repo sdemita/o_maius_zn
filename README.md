@@ -1,0 +1,1 @@
+Code used for analyses of the article **Comparative genomics reveals substantial divergence in metal sensitive and metal tolerant isolates of the ericoid mycorrhizal fungus Oidiodendron maius** by Daghino et al.
